@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/btn_rounded_sensors"
+    android:layout_marginTop="10dp"
+    android:layout_marginBottom="5dp"
+    android:weightSum="100"
+    android:id="@+id/ll_manager_pills">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="30"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:paddingLeft="12dp"
+        android:id="@+id/ll_pill_text"
+        android:gravity="center">
+        <TextView
+            android:paddingLeft="30dp"
+            android:id="@+id/tv_pill_day"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            style="@style/et_transparent"
+            android:textSize="19dp"
+            android:text="@string/et_pill"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="35"
+        android:layout_gravity="center"
+        android:layout_marginRight="1dp"
+        android:background="@drawable/btn_rounded_green"
+        android:id="@+id/ll_pill">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/bluepill"
+            android:id="@+id/imv_pill"
+            android:paddingTop="15dp"
+            android:paddingBottom="15dp"
+            android:scaleType="fitCenter"
+            android:layout_gravity="center" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="35"
+        android:id="@+id/ll_text_date"
+        android:gravity="center_vertical"
+        android:background="@drawable/btn_rounded_green">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_horizontal|center_vertical"
+            android:id="@+id/tv_text_date"
+            android:textSize="19dp"
+            />
+    </LinearLayout>
+
+</LinearLayout>

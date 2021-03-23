@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <item
+            android:id="@+id/aboutFragment"
+            android:enabled="true"
+            app:showAsAction="ifRoom"
+            android:icon="@drawable/ic_about_menu"
+            android:title="@string/et_description_title" />
+        <item
+            android:id="@+id/calendarFragment"
+            android:enabled="true"
+            app:showAsAction="ifRoom"
+            android:icon="@drawable/ic_calendario"
+            android:title="@string/et_calendar_title" />
+        <item
+            android:id="@+id/sensorsFragment"
+            android:enabled="true"
+            app:showAsAction="ifRoom"
+            android:icon="@drawable/ic_view_sensors"
+            android:title="@string/et_sensors_title" />
+</menu>

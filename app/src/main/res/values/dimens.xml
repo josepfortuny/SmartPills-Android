@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="IconSizeNormal">200dp</dimen>
+    <dimen name="IconPadding">20dp</dimen>
+    <dimen name="tamany_lletra">20sp</dimen>
+</resources>

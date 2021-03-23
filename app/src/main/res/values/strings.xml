@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Robotica_Grupo_08</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_create_session">Crear</string>
+    <string name="btn_register_account">CREAR CUENTA</string>
+    <string name="et_question_account">¿Aún no tienes cuenta?</string>
+    <string name="ti_name">Nombre</string>
+    <string name="ti_email">Correo Electrónico</string>
+    <string name="ti_password">Contraseña</string>
+    <string name="et_ask_account">¿Ya tienes cuenta?</string>
+    <string name="toast_field_error">ERROR! Se han de completar todos los campos</string>
+    <string name="et_no_movement">No hay movimiento</string>
+    <string name="et_movement">Hay movimento</string>
+    <string name="et_fall_detect">Hay caida</string>
+    <string name="et_tap_closed">Cerrado</string>
+    <string name="et_tap_open">Al máximo</string>
+    <string name="et_user_title">User name</string>
+    <string name="et_email_title">Email</string>
+    <string name="et_log_out">Cerrar sesión</string>
+    <string name="et_forgotten_password">¿Olvidaste tu contraseña?</string>
+    <string name="btn_log_in">Iniciar sesión</string>
+    <string name="btn_log_out">Cerrar sesión</string>
+    <string name="et_presence">Presencia</string>
+    <string name="et_thermometer">Termómetro</string>
+    <string name="et_temperature_constant">26ºC</string>
+    <string name="et_tap_control">Control del grifo</string>
+    <string name="et_app_description">Smartpills te permite conectarte con tu smarthome. Puedes planificar tu medicación, detectar presencias y caídas y muestra por pantalla la temperatura a tiempo real.</string>
+    <string name="et_presence_description">-El detector de presencia: Hay sensores de movimiento que ayudan a detectar si hay alguna caida mediante las siguientes alertas.</string>
+    <string name="et_fall_title">Alerta de caída:</string>
+    <string name="et_presence_title">Alerta de presencia:</string>
+    <string name="et_no_presence_title">No hay presencia:</string>
+    <string name="et_temperature_description">-Monitorización de la temperatura: Hay un sensor de temperatura que envía la temperatura a esta app.</string>
+    <string name="et_temperature_title">El monitor de temperatura:</string>
+    <string name="et_tap_control_description">-Control de la electroválvula de agua: Mediante dos botones que permiten abrir/cerrar la electroválvula des de la app.</string>
+    <string name="et_tap_control_title">Control de la electroválvula:</string>
+    <string name="et_pills_description">-Supervisión de la medicación: Permite planificarte una semana de la medicación.</string>
+    <string name="et_pills_title">Calendario de medicación:</string>
+    <string name="et_description_title">Explicación</string>
+    <string name="et_add_title">Añade al calendario tus pastillas mediante el siguiente botón:</string>
+    <string name="et_config_pills_title">Configura tu calendario:</string>
+    <string name="et_save_config_pills_title">Y no te olvides de guardar los cambios con el siguiente botón:</string>
+    <string name="et_calendar_title">Calendario</string>
+    <string name="et_sensors_title">Sensores</string>
+    <string name="et_hardware_hint">Hardware Attached</string>
+    <string name="et_no_plans">No hay nada planificado</string>
+    <string name="et_pill">Pastilla</string>
+    <string name="et_monday">Lunes</string>
+    <string name="et_monday_pills">monday</string>
+    <string name="et_email">jfortunycasablancas@gmail.com</string>
+
+</resources>

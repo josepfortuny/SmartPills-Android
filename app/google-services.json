@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "252516105869",
+    "firebase_url": "https://roboticagrupo08-dee61.firebaseio.com",
+    "project_id": "roboticagrupo08-dee61",
+    "storage_bucket": "roboticagrupo08-dee61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252516105869:android:5cdf60f4333d267df32cc4",
+        "android_client_info": {
+          "package_name": "com.example.met06_grupo08"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252516105869-h3tr0mu746o8naon8jrv5hgn236589ec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.met06_grupo08",
+            "certificate_hash": "ff9942d804d8ee2f5836a803b3a453298b5e89b0"
+          }
+        },
+        {
+          "client_id": "252516105869-ldraf6j5re8d0gbecmtn7o884ohqm8cu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx2_eJVpibDAz260ueYDdkc7mRTVQAtm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252516105869-ldraf6j5re8d0gbecmtn7o884ohqm8cu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

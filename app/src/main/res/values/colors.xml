@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="btn_green_selected">#0B6D63</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="btn_green">#0F8B7F</color>
+    <color name="backgroundAppColor">#C0212121</color>
+    <color name="menu_color_select">#90a4ae</color>
+    <color name="btn_grey">#616161</color>
+    <color name="btn_sensors">#757575</color>
+    <color name="btn_red_sensors">#f44336</color>
+</resources>
