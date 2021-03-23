@@ -15,7 +15,7 @@ And also the user recieves a popup message in the when it detects a person falli
 ## Android Main Views
 
 ### Login / Register
-![Login](https://github.com/josepfortuny/SmartPills-Android/blob/main/Images/Login.JPG) / ![Register](https://github.com/josepfortuny/SmartPills-Android/blob/main/Images/Register.JPG)
+<img src=https://github.com/josepfortuny/SmartPills-Android/blob/main/Images/Login.JPG width="200" height="200"> / <img src= https://github.com/josepfortuny/SmartPills-Android/blob/main/Images/Register.JPG width="200" height="200">
 
 ### Pill Calendar / Sensors Smart Shower 
-![pillCalendar](https://github.com/josepfortuny/SmartPills-Android/blob/main/Images/Calendar.JPG) / ![SensorsSmartShower](https://github.com/josepfortuny/SmartPills-Android/blob/main/Images/SmartShower.JPG)
+<img src=https://github.com/josepfortuny/SmartPills-Android/blob/main/Images/Calendar.JPG width="200" height="200"> / <img src=https://github.com/josepfortuny/SmartPills-Android/blob/main/Images/SmartShower.JPG width="200" height="200">
