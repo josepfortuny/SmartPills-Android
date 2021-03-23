@@ -5,6 +5,7 @@
 It is an android app where an user can plan in a calendar when a person has to take the pills, and to control and monitor a smartshower.
 This is a project focused in penitentiary centers which can potentially use this as a tool to facilitate their work. 
 So the user can plan the pills that a person has to take and visualize if it has physically taken [SmartPills-RaspyServer](https://github.com/josepfortuny/SmartPills-RaspyServer).
+
 Also, the user can visualize from the smartshower [SmartPills-Arduino](https://github.com/josepfortuny/SmartPills-Arduino) the following variables:
 * Water Intensity
 * Water Temperature
